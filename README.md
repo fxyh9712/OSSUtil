@@ -11,15 +11,15 @@ JAVA二次封装阿里OSS对象存储
 导入后请更改oss.properties里面的内容，更改成你对应的内容。
 
 ---
-**文件结构**  
+**文件结构**   
 ├── pom.xml  
 ├── README.md  
 ├── src  
-│   ├── main  
+│   ├── main   
 │   │   ├── java  
 │   │   │   └── com  
 │   │   │       └── fxyh  
-│   │   │           └── ossutil  
+│   │   │           └── ossutil    
 │   │   │               ├── OSSConfigure.java  
 │   │   │               ├── OSSUtil.java  
 │   │   │               ├── storage  
@@ -31,16 +31,17 @@ JAVA二次封装阿里OSS对象存储
 │   │   │               │   └── ThumbModel.java  
 │   │   │               └── util  
 │   │   │                   ├── Assert.java  
+│   │   │                   ├── CommonUtil.java  
 │   │   │                   ├── IOUtil.java  
 │   │   │                   └── StringUtils.java  
 │   │   └── resources  
 │   │       ├── export.txt  
-│   │       ├── oss.png  
+│   │       ├── oss.png    
 │   │       └── oss.properties  
 │   └── test  
-│       └── java  
-│           └── com  
-│               └── fxyh  
+│       └── java   
+│           └── com    
+│               └── fxyh   
 │                   └── AppTest.java  
 └── target  
     ├── classes  
@@ -58,6 +59,7 @@ JAVA二次封装阿里OSS对象存储
     │   │           │   └── ThumbModel.class  
     │   │           └── util  
     │   │               ├── Assert.class  
+    │   │               ├── CommonUtil.class  
     │   │               ├── IOUtil.class  
     │   │               └── StringUtils.class  
     │   ├── export.txt  
@@ -73,7 +75,7 @@ JAVA二次封装阿里OSS对象存储
     ├── generated-sources  
     │   └── annotations  
     ├── generated-test-sources  
-    │   └── test-annotations  
+    │   └── test-annotations   
     ├── maven-archiver  
     │   └── pom.properties  
     ├── maven-status  
@@ -94,5 +96,6 @@ JAVA二次封装阿里OSS对象存储
         └── com  
             └── fxyh  
                 └── AppTest.class  
+
 
 ---
