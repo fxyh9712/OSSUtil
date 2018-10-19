@@ -8,6 +8,8 @@ JAVA二次封装阿里OSS对象存储
 
 /OSSUtil/src/main/resources/oss.properties OSS对象配置文件，秘钥...
 
+导入后请更改oss.properties里面的内容，更改成你对应的内容。
+
 ---
 **文件结构**  
 ├── pom.xml  
