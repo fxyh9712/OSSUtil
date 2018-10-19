@@ -1,0 +1,12 @@
+com/fxyh/ossutil/storage/FileType.class
+com/fxyh/ossutil/OSSUtil.class
+com/fxyh/ossutil/storage/AliStorage.class
+com/fxyh/ossutil/util/CommonUtil.class
+com/fxyh/ossutil/storage/FileTypeHelper.class
+com/fxyh/ossutil/storage/AliImg.class
+com/fxyh/ossutil/storage/AliWrapper.class
+com/fxyh/ossutil/OSSConfigure.class
+com/fxyh/ossutil/util/Assert.class
+com/fxyh/ossutil/util/StringUtils.class
+com/fxyh/ossutil/util/IOUtil.class
+com/fxyh/ossutil/storage/ThumbModel.class

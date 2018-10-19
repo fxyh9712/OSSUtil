@@ -1,12 +1,15 @@
 package com.fxyh;
 
+import java.io.File;
+
 import org.junit.Test;
 
 import com.fxyh.ossutil.storage.AliStorage;
 import com.fxyh.ossutil.storage.ThumbModel;
+import com.fxyh.ossutil.util.CommonUtil;
 
 /**
- * Unit test for simple App.
+ * 测试工具类使用
  */
 public class AppTest{
 	
@@ -17,6 +20,10 @@ public class AppTest{
 		System.out.println("默认样式：" + url);
 		String url2 = AliStorage.getUrl(key, ThumbModel.THUMB_48);
 		System.out.println("THUMB_48样式：" + url2);
+		
+		byte[] buff = CommonUtil.getFileBytes(new File("/home/fxyh/tools/DemoList/MyUtils/OSSUtil/src/main/resources/oss.png"));
+		String uploadImageKey = AliStorage.uploadImage(buff);
+		System.out.println(uploadImageKey);
 		
 	}
 	
