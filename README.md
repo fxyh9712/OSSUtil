@@ -5,6 +5,7 @@ JAVA二次封装阿里OSS对象存储
 /OSSUtil/src/test/java/com/fxyh/AppTest.java 测试类
 
 /OSSUtil/src/main/resources/export.txt 样式文件，导入样式，选择这个文件
+
 /OSSUtil/src/main/resources/oss.properties OSS对象配置文件，秘钥...
 
 ---
