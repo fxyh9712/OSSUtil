@@ -1,0 +1,8 @@
+styleName:THUMB_0,styleBody:image/auto-orient,1/quality,q_90/watermark,text_Znh5aA,type_ZmFuZ3poZW5nZmFuZ3Nvbmc,size_24,t_100,color_ffffff,g_se,y_10,x_10
+styleName:THUMB_16,styleBody:image/resize,m_fill,w_16,h_16,limit_0/auto-orient,1
+styleName:THUMB_32,styleBody:image/resize,m_fill,w_32,h_32,limit_0/auto-orient,1
+styleName:THUMB_48,styleBody:image/resize,m_fill,w_48,h_48,limit_0/auto-orient,1
+styleName:THUMB_64,styleBody:image/resize,m_fill,w_64,h_64,limit_0/auto-orient,1
+styleName:THUMB_128,styleBody:image/resize,m_fill,w_128,h_128,limit_0/auto-orient,1
+styleName:THUMB_256,styleBody:image/resize,m_fill,w_256,h_256,limit_0/auto-orient,1
+styleName:THUMB_512,styleBody:image/resize,m_fill,w_512,h_512,limit_0/auto-orient,1
